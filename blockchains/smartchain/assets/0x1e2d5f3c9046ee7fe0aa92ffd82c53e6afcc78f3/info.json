@@ -1,0 +1,10 @@
+"name": "Battle of Galaxies",
+    "website": "https://battleofgalaxies.com/",
+    "description": "GAX is is the Battle of galaxies Coin",
+    "explorer": "https://bscscan.com/token/0x1e2d5f3c9046ee7fe0aa92ffd82c53e6afcc78f3",
+    "type": "BEP20",
+    "symbol": "GAX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1e2d5f3c9046ee7fe0aa92ffd82c53e6afcc78f3"
+}
